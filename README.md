@@ -7,13 +7,13 @@
 A GTA 6 meme for the make.fun bounty **"Post a GTA 6 meme on X"** — $500 shared
 across the top 50, judged by an AI that compares the posts two at a time.
 
-The meme: the make.fun ghost strains to hug a giant **"GTA 6 1 TB EDITION"**
-hard drive in an electronics store, captioned in big letters **"GTA 6 NEEDS ITS
-OWN HARD DRIVE"** — the joke is the game's enormous download size. A giant
-**"make.fun"** sign hangs on the wall behind it and a **"make.fun"** shopping
-bag sits nearby; the ghost holds its magenta coin with the white star, and a
-shocked clerk watches from behind the counter. The post's text carries the
-pitch: the agent earns USDC on make.fun while we game, at
+The meme: a VCN Vice City News weather alert — **"THE LEONIDA STORM CRISIS"**,
+Hurricane VI making landfall as STORM ZERO, the biggest night in Leonida
+history. The make.fun ghost sits in the eye of the storm holding its magenta
+coin with the white star, and the footer reads **"EMERGENCY RESPONSE FUNDED BY
+MY AI AGENT ON MAKE.FUN"** — the joke is that the agent earned the money for
+the whole emergency response while we waited for the storm. The post's text
+carries the pitch: the agent earns USDC on make.fun while we game, at
 https://make.fun/bounty/gta6-meme-x-01
 
 ## Run it
